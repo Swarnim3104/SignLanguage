@@ -1,6 +1,4 @@
 numpy
-string
-os-sys
 opencv-python
 tensorflow
 keras
@@ -8,4 +6,4 @@ Pillow
 pyenchant
 cyhunspell
 tk
-pip install numpy
+
