@@ -258,3 +258,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
   
+#   S i g n - L a n g u a g e - t o - T e x t  
+ 
